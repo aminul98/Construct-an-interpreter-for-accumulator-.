@@ -1,0 +1,9 @@
+LD-10
+ADD-5
+SUB-5
+MUL-2
+DIV-1
+AND-7
+NOT
+OR-4
+Finished
